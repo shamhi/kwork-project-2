@@ -70,7 +70,7 @@ instance/
 .scrapy
 
 # Local databases
-.db
+*.db
 
 # Sphinx documentation
 docs/_build/
